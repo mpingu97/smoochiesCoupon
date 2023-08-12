@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smoochiescoupon/static/css/main.073c9b0a.css",
-    "main.js": "/smoochiescoupon/static/js/main.1fb44878.js",
-    "static/js/787.0c067c0a.chunk.js": "/smoochiescoupon/static/js/787.0c067c0a.chunk.js",
-    "static/media/logo.svg": "/smoochiescoupon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/smoochiescoupon/index.html",
-    "main.073c9b0a.css.map": "/smoochiescoupon/static/css/main.073c9b0a.css.map",
-    "main.1fb44878.js.map": "/smoochiescoupon/static/js/main.1fb44878.js.map",
-    "787.0c067c0a.chunk.js.map": "/smoochiescoupon/static/js/787.0c067c0a.chunk.js.map"
+    "main.css": "/smoochiesCoupon/static/css/main.073c9b0a.css",
+    "main.js": "/smoochiesCoupon/static/js/main.72f4f84a.js",
+    "static/js/787.0c067c0a.chunk.js": "/smoochiesCoupon/static/js/787.0c067c0a.chunk.js",
+    "static/media/logo.svg": "/smoochiesCoupon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smoochiesCoupon/index.html",
+    "main.073c9b0a.css.map": "/smoochiesCoupon/static/css/main.073c9b0a.css.map",
+    "main.72f4f84a.js.map": "/smoochiesCoupon/static/js/main.72f4f84a.js.map",
+    "787.0c067c0a.chunk.js.map": "/smoochiesCoupon/static/js/787.0c067c0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1fb44878.js"
+    "static/js/main.72f4f84a.js"
   ]
 }
